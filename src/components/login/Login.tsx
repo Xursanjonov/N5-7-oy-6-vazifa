@@ -55,8 +55,7 @@ const Login: React.FC = () => {
               <img src={logoIcon} alt="" />
               <h1> {t("Welcome to ByTrend!")} </h1>
               <p>
-                {t("Already haven`t an account?")}
-                <span className="form-sign-up">{t("Sign up")}</span>
+                {t("Already have`t an account ?")} <span className="form-sign-up">{t("Sign up")}</span>
               </p>
             </div>
             <label htmlFor="email">
