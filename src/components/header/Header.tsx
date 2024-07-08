@@ -15,22 +15,21 @@ const Header: React.FC = () => {
         <div className="header-navbar-right">
           <ul className="header-navbar-right-lists">
             <li>
-              <a href="">{t("services")}</a>
+              <a href="">{t("Services")}</a>
             </li>
             <li>
-              <a href="">{t("about")}</a>
+              <a href="">{t("About")}</a>
             </li>
             <li>
-              <a href="">{t("contacts")}</a>
+              <a href="">{t("Contacts")}</a>
             </li>
           </ul>
           <button className="header-navbar-right-login"> {t("Login")} </button>
           <button className="header-navbar-right-account">
-            {t("open an account")}
+            {t("Open an account")}
           </button>
           <select
             className="header-navbar-right-lang"
-            id=""
             onChange={(e) => i18n.changeLanguage(e.target.value)}
           >
             <option value="en">EN</option>

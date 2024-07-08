@@ -53,15 +53,15 @@ const Login: React.FC = () => {
           <Form className="form">
             <div className="form-info">
               <img src={logoIcon} alt="" />
-              <h1>Welcome to ByTrend!</h1>
+              <h1> {t("Welcome to ByTrend!")} </h1>
               <p>
-                Already have an account?
-                <span className="form-sign-up">Sign up</span>
+                {t("Already haven`t an account?")}
+                <span className="form-sign-up">{t("Sign up")}</span>
               </p>
             </div>
             <label htmlFor="email">
               <h4>
-                Email
+                {t("Email")}
                 <span>*</span>
               </h4>
               <Field
@@ -78,7 +78,8 @@ const Login: React.FC = () => {
             </label>
             <label htmlFor="password">
               <h4>
-                Password<span>* </span>
+                {t("Password")}
+                <span>* </span>
                 <img className="warning-icon" src={warningIcon} alt="" />
               </h4>
               <div className="password">
@@ -111,7 +112,7 @@ const Login: React.FC = () => {
               disabled={isSubmitting}
               type="submit"
             >
-              {isSubmitting ? "Loading..." : "Continue"}
+              {isSubmitting ? "Loading..." : t("Continue")}
               <img src={nextIcon} alt="" />
             </button>
           </Form>

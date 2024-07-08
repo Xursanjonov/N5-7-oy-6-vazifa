@@ -1,21 +1,20 @@
 {
-    "header": "Bosh sahifa",
-    "services": "Xizmatlar",
-    "about": "Biz haqimizda",
-    "contacts": "Kontaktlar",
+    "Header": "Bosh sahifa",
+    "Services": "Xizmatlar",
+    "About": "Biz haqimizda",
+    "Contacts": "Kontaktlar",
     "Login": "Kirish",
-    "open an account": "Hisob ochish",
-    "login": {
-        "Welcome to ByTrend!": "ByTrend-ga xush kelibsiz!",
-        "already haven`t an account?": "Allaqachon hisobingiz bormi?",
-        "Sign up": "Ro'yxatdan o'ting",
-        "Email": "Elektron pochta",
-        "Password": "Parol",
-        "invalid email": "Noto`g`ri email",
-        "required": "Majburiy",
-        "too short!": "Juda kam!",
-        "too long!": "Juda ko`p!",
-        "loading...": "Yuklanmoqda...",
-        "continue": "Davom eting"
-    }
+    "Open an account": "Hisob ochish",
+    "Welcome to ByTrend!": "ByTrend-ga xush kelibsiz!",
+    "Already haven`t an account?": "Hisobingiz yo`qmi ? Hoziroq ",
+    "Sign up": "Ro'yxatdan o'ting",
+    "Email": "Elektron pochta",
+    "Password": "Parol",
+    "Invalid email": "Noto`g`ri email",
+    "Required": "Majburiy",
+    "Too short!": "Juda kam!",
+    "Too long!": "Juda ko`p!",
+    "Loading...": "Yuklanmoqda...",
+    "Continue": "Davom eting",
+    "All Rights Reserved. Lorem Technologies, Inc ~ ": "Barcha huquqlar himoyalangan. Lorem Technologies, Inc ~ "
 }

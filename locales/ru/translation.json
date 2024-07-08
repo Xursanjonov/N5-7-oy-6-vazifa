@@ -1,0 +1,20 @@
+{
+    "Header": "Главная",
+    "Services": "Услуги",
+    "About": "О нас",
+    "Contacts": "Контакты",
+    "Login": "Вход",
+    "Open an account": "Открыть счет",
+    "Welcome to ByTrend!": "Добро пожаловать в ByTrend!",
+    "Already haven`t an account?": "У вас нет аккаунта?",
+    "Sign up": "Зарегистрироваться",
+    "Email": "Электронная почта",
+    "Password": "Пароль",
+    "Invalid email": "Неправильный email",
+    "Required": "Обязательно",
+    "Too short!": "Слишком коротко!",
+    "Too long!": "Слишком длинно!",
+    "Loading...": "Загрузка...",
+    "Continue": "Продолжить",
+    "All Rights Reserved. Lorem Technologies, Inc ~ ": "Все права защищены. Lorem Technologies, Inc ~"
+}

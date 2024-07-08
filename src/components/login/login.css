@@ -72,11 +72,15 @@
   gap: 20px;
 }
 .form-info h1 {
-  width: 293px;
+  width: 393px;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
   height: 42.72px;
   margin: 0 auto;
   font-family: Segoe UI;
-  font-size: 29px;
+  font-size: 24px;
   font-weight: 700;
   line-height: 38.57px;
   text-align: left;
