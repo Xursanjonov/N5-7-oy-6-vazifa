@@ -1,0 +1,79 @@
+.header {
+  max-width: 1920px;
+  width: 100%;
+  height: 56px;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #ffffff;
+  border: 1px solid #00000017;
+}
+.logo {
+  width: 100px;
+}
+.header-navbar {
+  max-width: 1480px;
+  width: 100%;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.header-navbar-right {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 25px;
+}
+.header-navbar-right-lists {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: 600;
+  gap: 30px;
+}
+.header-navbar-right-login {
+  width: 70px;
+  height: 30px;
+  color: #0009;
+  text-align: center;
+  font-size: 16px;
+  font-weight: 500;
+  border-radius: 3px;
+  background-color: transparent;
+  border: 1px solid #d9d9d9;
+}
+.header-navbar-right-account {
+  width: 150px;
+  height: 30px;
+  color: #0009;
+  text-align: center;
+  font-size: 16px;
+  font-weight: 500;
+  border-radius: 3px;
+  background-color: transparent;
+  border: 1px solid #d9d9d9;
+}
+.header-navbar-right-lang {
+  width: 70px;
+  background-color: transparent;
+  height: 30px;
+  color: #0009;
+  text-align: center;
+  font-size: 16px;
+  font-weight: 500;
+  border-radius: 5px;
+  border: 1px solid #d9d9d9;
+}
+.header-navbar-right-lang option {
+  width: 70px;
+  height: 30px;
+  padding: 10px 0;
+  color: #0009;
+  text-align: center;
+  font-size: 16px;
+  font-weight: 500;
+  border-radius: 3px;
+  border: 1px solid #d9d9d9;
+}

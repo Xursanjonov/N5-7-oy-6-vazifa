@@ -1,0 +1,21 @@
+{
+    "header": "Header",
+    "services": "Services",
+    "about": "About",
+    "contacts": "Contacts",
+    "Login": "Login",
+    "open an account": "Open an account",
+    "login": {
+        "welcome to ByTrend!": "Welcome to ByTrend!",
+        "already haven`t an account?": "Already haven`t an account?",
+        "sign up": "Sign up",
+        "email": "Email",
+        "password": "Password",
+        "invalid email": "Invalid email",
+        "required": "Required",
+        "too short!": "Too short!",
+        "too long!": "Too long!",
+        "loading...": "Loading...",
+        "continue": "Continue"
+    }
+}

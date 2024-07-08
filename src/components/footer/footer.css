@@ -1,0 +1,29 @@
+.footer {
+  max-width: 1920px;
+  width: 100%;
+  margin: 25px auto;
+}
+.footer-box {
+  max-width: 1480px;
+  min-width: 280px;
+  width: 100%;
+  margin: 0 auto;
+  padding: 15px 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: white;
+  word-wrap: break-word;
+}
+.footer-box-title {
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 22px;
+  text-align: center;
+  font-weight: 600;
+  color: #000000a6;
+}
+.nusratillo {
+    color: blue;
+    font-weight: 700;
+}

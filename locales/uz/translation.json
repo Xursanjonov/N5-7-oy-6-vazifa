@@ -1,0 +1,21 @@
+{
+    "header": "Bosh sahifa",
+    "services": "Xizmatlar",
+    "about": "Biz haqimizda",
+    "contacts": "Kontaktlar",
+    "Login": "Kirish",
+    "open an account": "Hisob ochish",
+    "login": {
+        "Welcome to ByTrend!": "ByTrend-ga xush kelibsiz!",
+        "already haven`t an account?": "Allaqachon hisobingiz bormi?",
+        "Sign up": "Ro'yxatdan o'ting",
+        "Email": "Elektron pochta",
+        "Password": "Parol",
+        "invalid email": "Noto`g`ri email",
+        "required": "Majburiy",
+        "too short!": "Juda kam!",
+        "too long!": "Juda ko`p!",
+        "loading...": "Yuklanmoqda...",
+        "continue": "Davom eting"
+    }
+}
